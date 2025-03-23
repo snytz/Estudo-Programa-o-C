@@ -4,8 +4,7 @@
 int main() {
 
     char nome[50];
-    int matricula;
-    int idade;
+    int matricula, idade;
     float altura;
     
 
